@@ -1,0 +1,28 @@
+.Div {
+  background-color: rgb(203, 203, 243);
+  position: fixed;
+  text-align: center;
+  padding-top: 15vh;
+  min-width: 100%;
+  min-height: 100%;
+  /* height: 700px;; */
+}
+
+.inputContainer i {
+  position: absolute;
+margin-top:10px;
+margin-left:4px;
+
+}
+.inputContainer {
+  width: 100%;
+  margin-bottom: 10px;
+  height:10px;
+}
+.Field {
+  width: 200px;
+   padding: 10px;
+   text-align: center;
+   font-size: 12px;
+   /* font-weight: 200; */
+}
